@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/suriyas_Insurance_Company/static/css/main.ffc2245d.css",
+    "main.js": "/suriyas_Insurance_Company/static/js/main.38a411fa.js",
+    "static/js/453.8a0b3f08.chunk.js": "/suriyas_Insurance_Company/static/js/453.8a0b3f08.chunk.js",
+    "index.html": "/suriyas_Insurance_Company/index.html",
+    "main.ffc2245d.css.map": "/suriyas_Insurance_Company/static/css/main.ffc2245d.css.map",
+    "main.38a411fa.js.map": "/suriyas_Insurance_Company/static/js/main.38a411fa.js.map",
+    "453.8a0b3f08.chunk.js.map": "/suriyas_Insurance_Company/static/js/453.8a0b3f08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffc2245d.css",
+    "static/js/main.38a411fa.js"
+  ]
+}
