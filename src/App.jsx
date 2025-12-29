@@ -43,7 +43,7 @@ function AppContent() {
 function App() {
   return (
     <ThemeProvider>
-      <Router>
+      <Router basename="/suriyas_Insurance_Company">
         <AppContent />
       </Router>
     </ThemeProvider>
